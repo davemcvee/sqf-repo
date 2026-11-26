@@ -1,0 +1,12 @@
+# raw and processed data (NYPD files are not redistributed)
+data/
+
+# generated figures
+figures/
+
+# python
+__pycache__/
+*.pyc
+.venv/
+venv/
+.ipynb_checkpoints/
